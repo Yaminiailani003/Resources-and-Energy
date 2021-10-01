@@ -12,6 +12,7 @@ To know all this I have picked up the data from the link given below:-
 __WWW.INDUSTRY.GOV.AU/REQ__
 
 __Conclusion/Insights of the project__
+
 __Gold:-__ Australia is the world’s no. 1 producer of gold, approximate 187,200 tones of gold mined since the beginning of civilization. The US federal reserves holds 6,700 tones of gold. Gold makes up per billion of the Earth’s outer layer. The gold price did not fluctuate so much from 1990 to 2007 but it went up completely. When the exploration expenditure of gold is high in a particular year & after some years gold production becomes high and as soon as the production of gold becomes high, the price of gold starts coming down.
 
 __Coal:-__ There are two types of coal metallurgical and thermal coal. Australia is world’s no. 1 metallurgical coal exporter , almost all of metallurgical coal is exported. When we produce raw coal, we get only 70-85% of saleable coal. From the last 20 years, metallurgical coal export has always been more than thermal coal.
@@ -21,5 +22,5 @@ __Iron Ore:-__ Australia’s half of the earnings comes from iron ore alone and 
 
 __Total Resources & Energy:-__ The exploration expenditure of resources and energy has remained almost same from march 1990 to may 2005 after that the exploration expenditure of energy starts getting high which means Australia starts spending more money to find energy mines. 
 
-__Australia’s Business Income:-__ After 2004, income from mining and EGW increased significantly. Currently these two sectors drive most of the income.  Australia's business income is very dependent on mining sector. In 1990, the share of both mining and manufacturing in Australia business income was almost equal, but in 1998 the share of mining had gone down & the share of manufacturing had gone up significantly. After 2004, the share of mining continued to increase significantly in total business of Australia and share of manufacturing decreased day by day 
+__Australia’s Business Income:-__ After 2004, income from mining and EGW increased significantly. Currently these two sectors drive most of the income.  Australia's business income is very dependent on mining sector. In 1990, the share of both mining and manufacturing in Australia business income was almost equal, but in 1998 the share of mining had gone down & the share of manufacturing had gone up significantly. After 2004, the share of mining continued to increase significantly in total business of Australia and share of manufacturing decreased day by day. 
 
